@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Simple ERC20 token project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+OceanToken is a ERC20 token that: gives rewards bases on  blocks mined
+  70% of the tokens will be saved for the company
+  30% of the tokens will be distributed to the miners 
+  
+  What the is the perfect utility for a token that is not used for transactions?
