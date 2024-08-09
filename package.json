@@ -1,0 +1,22 @@
+{
+  "name": "ocean-token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "dot": "^1.1.3",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "hardhat-secure-accounts": "^0.0.6"
+  }
+}
