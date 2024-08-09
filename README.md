@@ -1,4 +1,4 @@
-# Simple ERC20 token project
+# Simple ERC20 fungible token project
 
 OceanToken is a ERC20 token that: gives rewards bases on  blocks mined
   70% of the tokens will be saved for the company
